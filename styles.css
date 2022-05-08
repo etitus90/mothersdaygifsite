@@ -58,29 +58,29 @@ h1, h2, h3, h4, p {
     height: 400px;
     border: 6px solid forestgreen;
     border-radius: 10px;
-    background-image: url("images/gift-cover.jpg");
+    background-image: url("gift-cover.jpg");
     background-size: cover;
 }
 
 #gift-img-bigbang:hover {
-    background-image: url("images/bigbang.gif");
+    background-image: url("bigbang.gif");
 }
 
 #gift-img-adameve:hover {
-    background-image: url("images/adameve.gif");
+    background-image: url("adameve.gif");
 }
 
 #gift-img-baby:hover {
-    background-image: url("images/baby.gif");
+    background-image: url("baby.gif");
 }
 
 #gift-img-vegeta:hover {
-    background-image: url("images/vegeta.gif");
+    background-image: url("vegeta.gif");
     justify-content: center;
 }
 
 #gift-img-love:hover {
-    background-image: url("images/love.gif");
+    background-image: url("love.gif");
 }
 
 #footer {
